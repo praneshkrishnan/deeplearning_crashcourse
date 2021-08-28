@@ -10,11 +10,11 @@ This Crash Course is divided into three modules
  - Advanced
 
 ### Beginner
-- Python programming
+- Python programming basics
 - Introduction to Artificial Intelligence
-- Mathematics for ML / DL
+- Mathematics for Machine Learning
 - Machine learning fundamentals
-- data vizualization, pandas, numpy, matplotlib, sklearn
+- Data vizualization, pandas, numpy, matplotlib, sklearn
 
 ### Intermediate
 - ML Algorithms (SVM, KNN, K-means)
@@ -26,6 +26,19 @@ This Crash Course is divided into three modules
 - Image Classification
 - Object Detection
 - Model Deployment
+
+
+## Days: Monday to Saturday
+
+## Class timing: 3.30 pm  to 5.00 pm (IST)
+
+## Requirements for the Class
+
+- Gmail account
+- Git hub account
+- Google Colab setup
+- Google Drive
+- 
 
 
 
