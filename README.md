@@ -1,6 +1,6 @@
 # Deep Learning Crash Course
 
-> _Learn Deep Learning in 30 days from the ground up at an affordable time and cost._
+> ***Learn Deep Learning in 30 days from the ground up at an affordable time and cost.***
 
 ## Curriculum
 
