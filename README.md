@@ -17,9 +17,9 @@ This Crash Course is divided into three modules
 - Data vizualization, pandas, numpy, matplotlib, sklearn
 
 ### Intermediate
-- ML Algorithms (SVM, KNN, K-means)
-- Artificial neural networks and Deep Learning
-- Image processing and Computer vision
+- Machine Learning Algorithms (SVM, KNN, K-means)
+- Artificial Neural Networks and Deep Learning
+- Image Processing and Computer Vision
 
 ### Advanced
 - Pytorch Fundamentals
@@ -30,8 +30,6 @@ This Crash Course is divided into three modules
 
 ## Days: Monday to Saturday
 
-## Class timing: 3.30 pm  to 5.00 pm (IST)
-
 ## Requirements for the Class
 
 - Gmail account
@@ -39,10 +37,10 @@ This Crash Course is divided into three modules
 - Google Colab setup
 - Google Drive
 
-| Syntax      | Description | Test Text     |
+| Start/Finish| Time        | Time Zone     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Class Start | 3.30 pm     | IST           |
+| Class End   | 5.00 pm     | IST           |
 
 
 ```json
