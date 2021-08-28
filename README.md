@@ -38,8 +38,11 @@ This Crash Course is divided into three modules
 - Git hub account
 - Google Colab setup
 - Google Drive
-- 
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 
