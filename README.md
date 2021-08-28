@@ -45,7 +45,13 @@ This Crash Course is divided into three modules
 | Paragraph   | Text        | And more      |
 
 
-
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 
 
