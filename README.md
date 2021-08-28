@@ -9,19 +9,19 @@ This Crash Course is divided into three modules
  - Intermediate
  - Advanced
 
-### Beginner
+### Level 1
 - Python programming basics
 - Introduction to Artificial Intelligence
 - Mathematics for Machine Learning
 - Machine learning fundamentals
-- Data vizualization, pandas, numpy, matplotlib, sklearn
+- Data vizualization, pandas, numpy, matplotlib, scikit-klearn
 
-### Intermediate
+### Level 2
 - Machine Learning Algorithms (SVM, KNN, K-means)
 - Artificial Neural Networks and Deep Learning
 - Image Processing and Computer Vision
 
-### Advanced
+### Level 3
 - Pytorch Fundamentals
 - Image Classification
 - Object Detection
@@ -45,9 +45,8 @@ This Crash Course is divided into three modules
 
 ```json
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "Trainer": "Dr. Pranesh Krishnan",  
+  "email": praneshkrishnan@gmail.com
 }
 ```
 
